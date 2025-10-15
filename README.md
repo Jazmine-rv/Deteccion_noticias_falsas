@@ -20,7 +20,7 @@ Implementar un clasificador automático que distinga entre noticias reales y fal
 ## Archivos
 
 - `README.md`: Este es un archivo descriptivo.
-- `deteccion.py`: Cpdigo de deteccion.
+- `deteccion.py`: Codigo de deteccion.
 
 
 
